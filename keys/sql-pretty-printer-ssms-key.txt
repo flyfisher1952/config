@@ -1,0 +1,9 @@
+Welcome mike.lockhart@comcast.net, 
+
+Product purchased: SQL Pretty Printer add-in for SQL Server Mangement Studio	
+Total License: 1	
+New available License: 0	
+
+License generated:
+Num	Key	Licensee	Email	Date
+1	E3884-C1400-A82564-B75034	Mike Lockhart	mike.lockhart@comcast.net	2014-12-17

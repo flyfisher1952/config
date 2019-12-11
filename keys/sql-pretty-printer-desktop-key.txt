@@ -1,0 +1,9 @@
+Welcome mike.lockhart@comcast.net, 
+
+Product purchased: SQL Pretty Printer desktop version	
+Total License: 1	
+New available License: 0	
+
+License generated:
+Num	Key	Licensee	Email	Date
+1	73311-38394-B3924-346674	Mike Lockhart	mike.lockhart@comcast.net	2014-12-16
