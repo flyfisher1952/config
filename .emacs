@@ -36,7 +36,7 @@
 (global-set-key [(meta ?s)]		'isearch-backward-regexp)
 (global-set-key [(meta ?#)]		'query-replace-regexp)
 
-(load-library "dark-emacs-theme")
+;(load-library "dark-emacs-theme")
 
 ;--------------------------------------------------------------------------------
 ;-- emacs edits this so be careful
