@@ -1,0 +1,36 @@
+{
+    "terminal.integrated.shell.windows": "E:\\apps\\git\\bin\\bash.exe",
+    "terminal.external.windowsExec": "E:\\apps\\Git\\bin\\bash.exe",
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDelete": false,
+    "[vue]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.tabWidth": 4,
+    "prettier.arrowParens": "avoid",
+    "prettier.endOfLine": "auto",
+    "prettier.printWidth": 160,
+    "git.enableSmartCommit": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.vueIndentScriptAndStyle": true,
+    "prettier.jsxSingleQuote": true,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": true,
+    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": true,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "git.autofetch": true
+}
